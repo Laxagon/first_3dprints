@@ -1,5 +1,7 @@
 # My first time 3d printing
 
+A university project in the course IN5590
+
 ### About
 In this project, I have explored low levels of 3D printing and make and test my own G-code on the Ender 3 (3dprinter). 
 I also designed a simple cube in SolidWorks with overhang in solidworks, and experienced the need for support in certain situations.
